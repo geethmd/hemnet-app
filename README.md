@@ -4,7 +4,7 @@ This repo contains a small web-application that counts visits and has a button t
 
 ## Getting Started
 
-The web service can be accessed via a web browser with http://k8s-hemnet-nginxing-da23afc14b-512937441.eu-west-1.elb.amazonaws.com/
+The web service can be accessed via a web browser with k8s-hemnet-nginxing-da23afc14b-1633261518.eu-west-1.elb.amazonaws.com
 
 ## Authors
 
