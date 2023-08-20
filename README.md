@@ -4,11 +4,11 @@ This repo contains a small web-application that counts visits and has a button t
 
 ## Getting Started
 
-The web service can be accessed via a web browser with http://http://k8s-default-ingress-d51228ea22-1855932782.eu-north-1.elb.amazonaws.com/
+The web service can be accessed via a web browser with http://k8s-hemnet-nginxing-da23afc14b-512937441.eu-west-1.elb.amazonaws.com/
 
 ## Authors
 
 Geeth Madhusha
 
 ## GitActions Status
-![GitActions Status](https://github.com/geethmd/hemnet-app/blob/main/.github/workflows/dockerbuild.yml/badge.svg)
+![GitActions Status](https://github.com/geethmd/hemnet-app/actions/workflows/dockerbuild.yml/badge.svg)
