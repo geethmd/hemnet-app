@@ -4,7 +4,7 @@ FROM nginx:latest
 # Set the working directory in the container
 WORKDIR /usr/share/nginx/html
 
-# Copy the current directory contents into the container at /app
+# Copy the current directory contents
 COPY . /usr/share/nginx/html
 
 # Expose port 80 for HTTP
